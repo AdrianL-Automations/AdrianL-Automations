@@ -5,7 +5,7 @@ Specialized in **Local AI Agents**, **High-Volume ETL**, and **GDPR-Compliant Au
 
 ---
 
-###  What I Build
+### What I Build
 - **Autonomous Agents:** Self-hosted Llama 3/Mistral agents that handle email & CRM logic.
 - **Data Pipelines:** Python scrapers processing 10k+ records/hour (Idealista, LinkedIn, Gov Data).
 - **Agency Backends:** FastAPI/Docker microservices that replace manual VA work.
@@ -18,6 +18,14 @@ Specialized in **Local AI Agents**, **High-Volume ETL**, and **GDPR-Compliant Au
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
+
+### Featured Solutions
+
+| Project | Type | Description |
+| :--- | :--- | :--- |
+| [**AI Email Agent**](https://github.com/AdrianL-Automations/email-agent-template) | `AI / LangGraph` | Self-hosted "Digital Employee" that handles client emails. |
+
+---
 
 ### Philosophy
 1. **Ownership:** You own the code and the container. No vendor lock-in.
