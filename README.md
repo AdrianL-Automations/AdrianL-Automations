@@ -1,16 +1,27 @@
-## Hi there 👋
+### Automation Architect for Agencies
 
-<!--
-**AdrianL-Automations/AdrianL-Automations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build private, self-hosted automation infrastructure. I don't sell scripts; I sell reliability.
+Specialized in **Local AI Agents**, **High-Volume ETL**, and **GDPR-Compliant Automation**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  What I Build
+- **Autonomous Agents:** Self-hosted Llama 3/Mistral agents that handle email & CRM logic.
+- **Data Pipelines:** Python scrapers processing 10k+ records/hour (Idealista, LinkedIn, Gov Data).
+- **Agency Backends:** FastAPI/Docker microservices that replace manual VA work.
+
+### The Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+### Philosophy
+1. **Ownership:** You own the code and the container. No vendor lock-in.
+2. **Privacy:** Data stays on your servers (EU/GDPR friendly).
+3. **Stability:** Type-safe, tested code. No "spaghetti scripts."
+
+---
