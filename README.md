@@ -24,6 +24,7 @@ Specialized in **Local AI Agents**, **High-Volume ETL**, and **GDPR-Compliant Au
 | Project | Type | Description |
 | :--- | :--- | :--- |
 | [**AI Email Agent**](https://github.com/AdrianL-Automations/email-agent-template) | `AI / LangGraph` | Self-hosted "Digital Employee" that handles client emails. |
+| [**High-Volume Processor**](https://github.com/AdrianL-Automations/high-volume-image-processor) | `Python / Multiprocessing` | Benchmarked at 80+ images/second using Parallel CPU processing. |
 
 ---
 
